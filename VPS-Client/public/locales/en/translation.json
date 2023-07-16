@@ -1,0 +1,23 @@
+{
+    "home": "Home",
+    "shop": "Shop",
+    "product_details": "Product Details",
+    "collection": "Product",
+    "pages": "Pages",
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "wishlist": "Wishlist",
+    "compare": "Compare",
+    "my_account": "My Account",
+    "login_register": "Login / Register",
+    "about_us": "About Us",
+    "contact_us": "Contact Us",
+    "404_page": "404 Page",
+    "blog": "Blog",
+    "blog_standard": "Blog Standard",
+    "blog_no_sidebar": "Blog No Sidebar",
+    "blog_right_sidebar": "Blog Right Sidebar",
+    "blog_details_standard": "Blog Details Standard",
+    "blog_details_video": "Blog Details Video",
+    "blog_details_slider": "Blog Details Slider"
+}  
